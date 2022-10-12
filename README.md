@@ -1,5 +1,5 @@
 git clone https://github.com/ahmetfurkanbas/ish.git && cd ish && chmod +x ish && ./ish<br><br>
-
+İngilizce/Türkçe dil desteği mevcuttur scriptte tr.sh ve en.sh dosyalarını hostunuza upload ettikten sonra ish.sh içerisinden dosya konumlarını değiştirebilirsiniz.
 <br>
 Script içerisindeki dosya konumlarından dosyaları çekemezsiniz, kendini geliştirmek isteyen arkadaşlar için gayet güzel bir shell/bash kaynaktır.
 Scriptin asıl amacı TeamSpeak3,Sinusbot,Oyun kurulumlarıdır.
