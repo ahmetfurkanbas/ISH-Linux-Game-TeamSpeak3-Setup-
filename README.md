@@ -1,5 +1,8 @@
 git clone https://github.com/ahmetfurkanbas/ish.git && cd ish && chmod +x ish && ./ish
+Script içerisindeki dosya konumlarından dosyaları çekemezsiniz, kendini geliştirmek isteyen arkadaşlar için gayet güzel bir shell/bash kaynaktır.
+Scriptin asıl amacı TeamSpeak3,Sinusbot,Oyun kurulumlarıdır.
 
+Aşağıdaki görüntüler eski sürüme aittir paylaşılmış olan ish.sh dosyası v2.0.32'dir.
 
 
 ![1](https://user-images.githubusercontent.com/115633392/195373050-303bc404-b02d-4bc0-abcc-f09356879425.png)
